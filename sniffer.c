@@ -40,7 +40,7 @@ struct udp_header {
     u_short length;
     u_short chck_sum;
 };
-
+//fgh
 struct tcp_header {
     u_short src_port;
     u_short dest_port;
